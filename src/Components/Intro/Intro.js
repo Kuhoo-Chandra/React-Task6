@@ -31,7 +31,7 @@ const Intro = () => {
               <h5>Extracurricular</h5>
               <p>
                 <small>
-                  Presneted and published a conference paper at ICIHCNN'22
+                  Presented and published a conference paper at ICIHCNN'22
                 </small>
               </p>
             </article>
